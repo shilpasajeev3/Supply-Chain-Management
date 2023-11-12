@@ -13,7 +13,7 @@ The dataset comprises crucial attributes such as warehouse details, geographical
 • Exploratory Data Analysis (EDA): Uncover hidden patterns, trends, and insights within the data to gain a deeper understanding of the supply chain dynamics.
 
 • Data Processing: Cleanse and preprocess the dataset to ensure accurate and reliable input for model training.
-
+ 
 • Model Building: Implement supervised regression algorithms, including linear regression, decision tree, random forest, AdaBoost, Gradient Boosting, and Support Vector Machine, to predict optimal shipment weights.
 
 • Evaluation: Assess the performance of each model using relevant metrics to identify the most effective solution.
