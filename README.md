@@ -10,16 +10,15 @@ In response to challenges faced by a Fast Moving Consumer Goods (FMCG) company i
 ## Dataset
 The dataset comprises crucial attributes such as warehouse details, geographical factors, and historical performance metrics. These attributes play a vital role in understanding and predicting the optimal shipment weights.
 ## Data Science Steps
-Exploratory Data Analysis (EDA): Uncover hidden patterns, trends, and insights within the data to gain a deeper understanding of the supply chain dynamics.
-Data Processing: Cleanse and preprocess the dataset to ensure accurate and reliable input for model training.
-Model Building: Implement supervised regression algorithms, including linear regression, decision tree, random forest, AdaBoost, Gradient Boosting, and Support Vector Machine, to predict optimal shipment weights.
-Evaluation: Assess the performance of each model using relevant metrics to identify the most effective solution.
-Visualization: Present findings through visualizations to facilitate better decision-making and understanding of the supply chain.
+• Exploratory Data Analysis (EDA): Uncover hidden patterns, trends, and insights within the data to gain a deeper understanding of the supply chain dynamics.
+
+• Data Processing: Cleanse and preprocess the dataset to ensure accurate and reliable input for model training.
+
+• Model Building: Implement supervised regression algorithms, including linear regression, decision tree, random forest, AdaBoost, Gradient Boosting, and Support Vector Machine, to predict optimal shipment weights.
+
+• Evaluation: Assess the performance of each model using relevant metrics to identify the most effective solution.
+
+• Visualization: Present findings through visualizations to facilitate better decision-making and understanding of the supply chain.
 ## Machine Learning Algorithms
 Here, we employ various supervised regression algorithms to address the optimization challenge:
-Linear Regression
-Decision Tree
-Random Forest
-AdaBoost
-Gradient Boosting
-Support Vector Machine
+Linear Regression, Decision Tree, Random Forest, AdaBoost, Gradient Boosting, and Support Vector Machine
